@@ -1,0 +1,296 @@
+[
+	[{
+		"Parent_Asset_Id": "Asset/Red/Ship/DDG",
+		"Child_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:53:00.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:45:46.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28417
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 31583
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Child_Asset_Id": "Asset/Red/Ship/DDG",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:53:00.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:45:46.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28417
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 31583
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Child_Asset_Id": "Asset/Blue/Ship/AE 21",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 20:01:57.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:43:17.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28954
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 31434
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Red/Aircraft/J-11B",
+		"Child_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 20:00:03.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:14:39.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28840
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 29716
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Child_Asset_Id": "Asset/Red/Aircraft/J-11B",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:45:10.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 21:12:17.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27947
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459236,
+				"secondsOfDay": 25236
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Aircraft/Raptor",
+		"Child_Asset_Id": "Asset/Green/Aircraft/Harrier",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 20:00:58.00", "01/20/2021 20:08:34.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:08:27.00", "01/20/2021 20:13:16.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28895
+			}, {
+				"dayNumber": 2459235,
+				"secondsOfDay": 29351
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 29344
+			}, {
+				"dayNumber": 2459235,
+				"secondsOfDay": 29633
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Ship/AE 21",
+		"Child_Asset_Id": "Asset/Red/Ship/DDG",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:00:00.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 19:00:00.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 25237
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 25237
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Red/Ship/DDG",
+		"Child_Asset_Id": "Asset/Red/Aircraft/J-11B",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:32:06.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:28:29.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27163
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 30546
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Green/Aircraft/Harrier",
+		"Child_Asset_Id": "Asset/Red/Ship/DDG",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:39:52.00", "01/20/2021 22:17:13.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 19:56:37.00", "01/20/2021 22:20:33.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27629
+			}, {
+				"dayNumber": 2459235,
+				"secondsOfDay": 37070
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28634
+			}, {
+				"dayNumber": 2459235,
+				"secondsOfDay": 37270
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Red/Ship/DDG",
+		"Child_Asset_Id": "Asset/Green/Aircraft/Harrier",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:00:00.00", "01/20/2021 21:27:32.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 20:36:03.00", "01/20/2021 23:01:30.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 25237
+			}, {
+				"dayNumber": 2459235,
+				"secondsOfDay": 34089
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 31000
+			}, {
+				"dayNumber": 2459236,
+				"secondsOfDay": 25236
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Green/Aircraft/Harrier",
+		"Child_Asset_Id": "Asset/Blue/Ship/AE 21",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:31:47.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 19:55:59.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27144
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 28596
+			}]
+		]
+	}],
+	[{
+		"Parent_Asset_Id": "Asset/Blue/Ship/AE 21",
+		"Child_Asset_Id": "Asset/Green/Aircraft/Harrier",
+		"Type": "Sensor",
+		"Start_TimeUTC": [
+			["01/20/2021 19:41:56.00"]
+		],
+		"Stop_TimeUTC": [
+			["01/20/2021 19:45:37.00"]
+		],
+		"Start_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27753
+			}]
+		],
+		"Stop_TimeCesium": [
+			[{
+				"dayNumber": 2459235,
+				"secondsOfDay": 27974
+			}]
+		]
+	}]
+]
